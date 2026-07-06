@@ -27,3 +27,4 @@ The Digital Clock & Stopwatch project provides an excellent opportunity to under
 Overall, the Digital Clock & Stopwatch is a useful and efficient time management application suitable for students, professionals, teachers, and general users. It combines functionality, simplicity, and modern design into a single web application. The project serves as an excellent academic project for learning web development concepts and showcases practical implementation of HTML, CSS, and JavaScript. It is also suitable for inclusion in personal portfolios, college assignments, and software development practice because it demonstrates both technical knowledge and user interface design skills.
 
 OUTPUT:
+<img width="1082" height="787" alt="Image" src="https://github.com/user-attachments/assets/cb9aeeab-4b9a-4f3f-aa5c-3ebdcb1efd01" />
